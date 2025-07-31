@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm V Pranav Madhu 👋
 
-<!--
-**vpranavmadhu/vpranavmadhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Computer Science and Engineering  
+💻 Full-Stack Developer | Java | Spring Boot | React | Python | Django  
+🚀 Passionate about building scalable web applications  
+📫 Reach me at: your.email@example.com
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- 💻 Languages: Java, Python, JavaScript, SQL
+- 🌐 Frontend: React, HTML, CSS, Tailwind
+- 🔧 Backend: Spring Boot, Django, REST APIs
+- 🛢️ Database: MySQL, MongoDB
+- ⚙️ Tools: Git, GitHub, Postman, Docker, Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 📌 Projects
+- **E-Commerce App** - React + Spring Boot + MySQL  
+- **Food Ordering App** - Django + SQLite  
+- **Portfolio Website** - React Vite + Tailwind
+
+## 📎 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/yourlinkedin) | [Portfolio](https://yourportfolio.vercel.app)
